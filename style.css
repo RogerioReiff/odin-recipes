@@ -1,0 +1,32 @@
+
+.h-one{
+  background-color: green;
+  color: black;
+  font-family: "Times New Roman", sans-serif;
+  font-weight: 1000;
+}
+
+.link-size {
+  font-size: 18px;
+}
+
+.head-size{
+  font-size: 19px;
+  background-color: green;
+  
+}
+
+.c-list,
+p{
+  background-color: purple;
+  font-weight: bold;
+}
+
+.head-size.p-size{
+  font-size: 18px;
+}
+
+#pan-img{
+  height: auto;
+  width: 480px;
+}
